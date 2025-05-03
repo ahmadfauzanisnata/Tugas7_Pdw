@@ -1,0 +1,46 @@
+<body>
+    <link rel="stylesheet" href="form.css">
+    <form>
+        <fieldset>
+            <legend>Format Input Pegawai</legend>
+            <label>Nama     : <input type="text" name="nama"></label>
+            <label>Nama1    : <input type="text" name="value"></label>
+            <label>Password : <input type="password" name="pass"></label>
+
+            <p>
+                Admin status: 
+                <input type="radio" name="admin" value="super-admin" checked /> Super Admin
+                <input type="radio" name="admin" value="regular" /> Regular
+            </p>
+            <fieldset>
+                <legend>Bahasa pemrograman yang dikuasai :</legend>
+          
+                <p><input type="checkbox" name="php"> PHP</p>
+                <p><input type="checkbox" name="java"> Java</p> 
+                <p><input type="checkbox" name="python"> Python</p>
+            </fieldset>
+
+
+           
+            <p>
+                Divisi :
+                <select>
+                    <option>Frontend</option>
+                    <option>Backend</option>
+                </select>
+            </p>
+      
+
+
+      
+            <p>
+                Email member bank server : 
+                <input type="email" name="id" maxlength="100" placeholder="contoh@mail.com">
+            </p>
+      
+            <p><input type="submit" value="Submit"></p>
+        </form>
+    </fieldset>
+
+    <button class="back"><a href="index.html">Back</a></button>
+</body>

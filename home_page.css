@@ -1,0 +1,56 @@
+p{
+    text-align: center;
+    
+}
+
+ .about, .biodata, .hobbies{
+    background-color: blue;
+    width: 120px;
+    height: 50px;
+    border: transparent;
+    border-radius: 100%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px; 
+    margin-top: 50px;
+
+}
+
+.back{
+    margin-top: 10px;
+    background-color:yellow;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none; /* HILANGKAN GARIS BAWAH */
+    color: black;
+    padding: 10px;
+    display: inline-block;
+}
+
+body{
+    background-color: #90E0EF;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+
+
+
+  
+

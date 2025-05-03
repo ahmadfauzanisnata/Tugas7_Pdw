@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    top: 0;
+    right: 0;
+}
+body{
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.bov{
+    width: 100%;
+    height: 50%;
+    % background-color: red; */
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #228809;
+}
+
+
+section{
+    text-align: center;
+    align-items: center;
+    border: solid #228809;
+    box-sizeing: border-box;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+.txt{
+    justify-content: center;
+    text-align: center;
+}
+
+.pendaftaran, a{
+    background-color: #228809;
+    color: white;
+    text-decoration: none;
+    width: 20%;
+    height: 10%;
+    border: transparent;
+    border-radius: 5px;
+}
+

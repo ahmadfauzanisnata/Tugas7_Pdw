@@ -1,0 +1,18 @@
+.back, a {
+    margin-top: 5px;
+    background-color: yellow;
+    color: black;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+
+h3 {
+    text-align: center;
+}
+
+body{
+    background-color: #90E0EF;
+}
