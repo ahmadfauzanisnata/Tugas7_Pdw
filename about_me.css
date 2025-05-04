@@ -2,7 +2,6 @@
     margin-top: 5px;
     background-color: yellow;
     color: black;
-    text-decoration: none;
     width: 70px;
     height: 40px;
     border: transparent;
@@ -49,4 +48,8 @@ h3 {
     background-attachment: fixed;
     z-index: -1;
     opacity: 0.2;
+}
+
+a {
+    text-decoration: none;
 }
