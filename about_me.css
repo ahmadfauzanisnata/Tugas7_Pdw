@@ -51,5 +51,8 @@ h3 {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: none; /* HILANGKAN GARIS BAWAH */
+    color: black;
+    padding: 10px;
+    display: inline-block;
 }
